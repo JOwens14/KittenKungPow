@@ -1,8 +1,7 @@
 # KITTENS WITH WEAPONS!!
 ## The Worlds Premier Kitten Fighting Game
 
-## TRAILER
-    https://youtu.be/TtHZYyejAJw
+Trailer: https://youtu.be/TtHZYyejAJw
 
 * **Note**: Controller support may be unavailable if not running in FIREFOX
 
