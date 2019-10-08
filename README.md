@@ -1,15 +1,12 @@
 # KITTENS WITH WEAPONS!!
 ## The Worlds Premier Kitten Fighting Game
 
+## TRAILER
+    https://youtu.be/TtHZYyejAJw
+
 * **Note**: Controller support may be unavailable if not running in FIREFOX
 
 View the live app at https://kittenswithweapons.github.io/KittenKungPow/
-
-## Running locally
-
-Install dependences and run server:
-
-    npm install && npm start
 
 
 ## Current Controls:
